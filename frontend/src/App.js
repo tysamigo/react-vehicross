@@ -6,12 +6,13 @@ import * as vxLogo from './assets/images/vx_logo_small_2.png';
 import { Switch, Route, BrowserRouter, Link } from 'react-router-dom';
 import NotFound from './NotFound';
 import Maintenance from './Maintenance';
+import Navbar from 'react-bootstrap/Navbar'
 
 function App() {
     return (
         <BrowserRouter>
             <div className="container-fluid">
-                <nav className="navbar navbar-expand-md bg-light mb-0 pb-0 mt-0 pt-0 fixed-top">
+                <Navbar collapseOnSelect expand="sm" bg-light mb-0 pb-0 mt-0 pt-0 fixed-top>
                     <Link to="/" className="navbar-brand">
                         <img className="navbar-brand img-fluid" src={vxLogo} alt="VehiCross Logo" />
                     </Link>
@@ -26,8 +27,9 @@ function App() {
                             <Link to="/Maintenance" className="nav-item nav-link pr-3">Maintenance</Link>
                         </div>
                     </div>
-                </nav>
+                </Navbar>
             </div>
+            
             <div className="body">
 
                 {/* 
