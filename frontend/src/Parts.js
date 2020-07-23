@@ -20,7 +20,7 @@ class Parts extends React.Component {
      * @summary API Call #3: Perform a GET call to the API for parts data
      */
     loadPartData() {
-        Axios.get("https://webapi20190630041009.azurewebsites.net/api/parts")
+        Axios.get("https://localhost:5000/parts")
             .then((response) => {
                 // Store the list of maintenance entries in the
                 // component state
