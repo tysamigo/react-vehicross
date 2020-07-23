@@ -1,0 +1,450 @@
+﻿[
+  {
+    "date": "04/13/2007",
+    "odometer": 0,
+    "servicePerformed": "Oil - Change oil and filter",
+    "location": "Self",
+    "totalCost": "$31.74",
+    "notes": ""
+  },
+  {
+    "date": "04/13/2007",
+    "odometer": 0,
+    "servicePerformed": "Windshield wipers - Replace",
+    "location": "Self",
+    "totalCost": "$17.55",
+    "notes": "Wiper Blades Replaced w/Rain X"
+  },
+  {
+    "date": "04/13/2007",
+    "odometer": 0,
+    "servicePerformed": "Cleaning",
+    "location": "Walmart",
+    "totalCost": "$35.16",
+    "notes": "Cleaning Products - Rain X, Applicator Pads, Small Brush, Chamios, Teflon Wheel Cleaner, Tire Wet"
+  },
+  {
+    "date": "04/13/2007",
+    "odometer": 0,
+    "servicePerformed": "Slick 50",
+    "location": "Self",
+    "totalCost": "$15.36",
+    "notes": "Slick 50"
+  },
+  {
+    "date": "04/27/2007",
+    "odometer": 0,
+    "servicePerformed": "Brake Fluid - Fill/Add",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$1.79",
+    "notes": "Brake Fluid - Fill/Add"
+  },
+  {
+    "date": "07/18/2007",
+    "odometer": 0,
+    "servicePerformed": "Cleaning",
+    "location": "www.carcareonline.com",
+    "totalCost": "$46.51",
+    "notes": "Protectant - Cladding, Exterior for rubber & vinyl, 1 gallon jug.  This is best stuff to use for cladding."
+  },
+  {
+    "date": "07/21/2007",
+    "odometer": 0,
+    "servicePerformed": "Oil - Change oil and filter",
+    "location": "Self",
+    "totalCost": "$0.00",
+    "notes": "Oil - Change oil and filter"
+  },
+  {
+    "date": "07/21/2007",
+    "odometer": 0,
+    "servicePerformed": "Cleaning",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$126.51",
+    "notes": "Cleaning products (interior, fuel treatment, oil treatment, etc.)  See receipt for details."
+  },
+  {
+    "date": "07/21/2007",
+    "odometer": "",
+    "servicePerformed": "Oil - Purchase",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$36.19",
+    "notes": "Purchased 6 quarts synthetic oil (list 9.64, charged 5.69/each)"
+  },
+  {
+    "date": "07/21/2007",
+    "odometer": "",
+    "servicePerformed": "Oil Filter - Purchase",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$3.49",
+    "notes": "Oil Filter purchased (list 5.58, charged 3.29 per coupon)"
+  },
+  {
+    "date": "08/14/2007",
+    "odometer": 49267,
+    "servicePerformed": "Differential fluid - Replace fluid",
+    "location": "Oxmoor Automotive Group",
+    "totalCost": "$46.88",
+    "notes": "Drain and fill front differenetial fluid (gear oil)"
+  },
+  {
+    "date": "08/14/2007",
+    "odometer": 49267,
+    "servicePerformed": "Differential fluid - Replace fluid",
+    "location": "Oxmoor Automotive Group",
+    "totalCost": "$69.38",
+    "notes": "Drain and fill rear differential fluid (gear oil)"
+  },
+  {
+    "date": "08/14/2007",
+    "odometer": 49267,
+    "servicePerformed": "TOD Transfer Case - Replace",
+    "location": "Oxmoor Automotive Group",
+    "totalCost": "$57.33",
+    "notes": "Drain and refill TOD Transfer Case, Dextron ATF, Isuzu 2-90531-812-0"
+  },
+  {
+    "date": "08/14/2007",
+    "odometer": 49267,
+    "servicePerformed": "Transmission - Change fluid",
+    "location": "Oxmoor Automotive Group",
+    "totalCost": "$128.86",
+    "notes": "Drain, Flush and Refill Transmission Fluid, Dextron ATF, Isuzu 2-90531-815-0"
+  },
+  {
+    "date": "08/14/2007",
+    "odometer": 49267,
+    "servicePerformed": "Antifreeze-Coolant - Replace fluid",
+    "location": "Oxmoor Automotive Group",
+    "totalCost": "$109.00",
+    "notes": "Drain, flush, refill radiator"
+  },
+  {
+    "date": "08/14/2007",
+    "odometer": 49267,
+    "servicePerformed": "Power Steering - Replace",
+    "location": "Oxmoor Automotive Group",
+    "totalCost": "$109.00",
+    "notes": "Drain, flush and refill Power Steering Fuild, Isuzu 2-90531-814-0"
+  },
+  {
+    "date": "08/14/2007",
+    "odometer": 49267,
+    "servicePerformed": "Fuel Injectors Clean (Fuel Induction)",
+    "location": "Oxmoor Automotive Group",
+    "totalCost": "$116.00",
+    "notes": "Full Induction performed."
+  },
+  {
+    "date": "08/14/2007",
+    "odometer": 49267,
+    "servicePerformed": "Brakes - Replace brake fluid",
+    "location": "Oxmoor Automotive Group",
+    "totalCost": "$39.95",
+    "notes": "Drain, flush, refill Brake Fluid"
+  },
+  {
+    "date": "08/14/2007",
+    "odometer": 49267,
+    "servicePerformed": "Diagnostics",
+    "location": "Oxmoor Automotive Group",
+    "totalCost": "$35.00",
+    "notes": "Check for ABS Light on, check for hard shifting for first 3 gears.  New fluid eventually fixed the problem now there hasn't been any hard shifting."
+  },
+  {
+    "date": "08/15/2007",
+    "odometer": 49267,
+    "servicePerformed": "Oil - Change oil and filter",
+    "location": "Oxmoor Automotive Group",
+    "totalCost": "$22.50",
+    "notes": ""
+  },
+  {
+    "date": "02/02/2008",
+    "odometer": 0,
+    "servicePerformed": "Oil - Purchase",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$92.73",
+    "notes": "Royal Purple Synthetic Oil Purchase, 12 quarts\n10w30"
+  },
+  {
+    "date": "02/02/2008",
+    "odometer": "",
+    "servicePerformed": "Oil Filter - Purchase",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$3.49",
+    "notes": "Royal Purple Oil Filter purchased (x1)\nUsed a coupon.  Original Price 6.58"
+  },
+  {
+    "date": "11/19/2008",
+    "odometer": 0,
+    "servicePerformed": "Oil - Purchase",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$25.41",
+    "notes": "Royal Purple 3 Quarts Oil purhcased, 10w30\nUsed coupon, original price $13.54 each\nw/coupon 7.99 each"
+  },
+  {
+    "date": "11/19/2008",
+    "odometer": "",
+    "servicePerformed": "Oil Filter - Purchase",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$6.67",
+    "notes": "Royal Purple Oil filter purchase\nUsed coupon, originally 10.66, w/coupon 6.29"
+  },
+  {
+    "date": "11/20/2008",
+    "odometer": 0,
+    "servicePerformed": "Oil - Purchase",
+    "location": "www.amazon.com",
+    "totalCost": "$183.62",
+    "notes": "Oil, Royal Purple 10W30, 12 Quart Case, purchased 2 cases @ $86.61 each"
+  },
+  {
+    "date": "02/21/2009",
+    "odometer": 0,
+    "servicePerformed": "Windshield wipers - Replace",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$38.14",
+    "notes": "Windshield wipers - Replace"
+  },
+  {
+    "date": "04/30/2009",
+    "odometer": 71216,
+    "servicePerformed": "Oil - Change oil and filter",
+    "location": "Valvoline Instant Oil",
+    "totalCost": "$35.31",
+    "notes": "Oil Change & Filter, 5W30 4.5Qrts used."
+  },
+  {
+    "date": "09/27/2009",
+    "odometer": "",
+    "servicePerformed": "Oil Filter - Purchase",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$21.27",
+    "notes": "Purchased 3 Royal Purple Oil Filters\nUsed coupon, originally 11.34 each, w/coupon 6.29 each\nPurchased 3 on this trip"
+  },
+  {
+    "date": "03/28/2012",
+    "odometer": 0,
+    "servicePerformed": "Oil - Purchase",
+    "location": "www.kseriesparts.com",
+    "totalCost": "$89.00",
+    "notes": "Royal Purple, case purchased from Club RSX (www.kseriesparts.com), free s/h\nCase of 12 Quarts"
+  },
+  {
+    "date": "03/28/2012",
+    "odometer": 0,
+    "servicePerformed": "Oil Filter - Purchase",
+    "location": "www.amazon.com",
+    "totalCost": "$69.95",
+    "notes": "Oil Filters, Royal Purple, case of 6 filters"
+  },
+  {
+    "date": "04/03/2013",
+    "odometer": 0,
+    "servicePerformed": "Cleaning",
+    "location": "www.amazon.com",
+    "totalCost": "$29.87",
+    "notes": "Leather conditioning with 303 Protectant"
+  },
+  {
+    "date": "05/10/2014",
+    "odometer": 101370,
+    "servicePerformed": "Oil - Change oil and filter",
+    "location": "RWG",
+    "totalCost": "$45.78",
+    "notes": "Oil Change & Filter (5W30 Synthetic) and Lube (see main invoice)"
+  },
+  {
+    "date": "05/10/2014",
+    "odometer": 101370,
+    "servicePerformed": "Rear Axle Fluid Change",
+    "location": "RWG",
+    "totalCost": "$71.80",
+    "notes": "Rear Axle Fluid Change (Differential Fluid)"
+  },
+  {
+    "date": "05/10/2014",
+    "odometer": 101370,
+    "servicePerformed": "Front Axle Fluid Change",
+    "location": "RWG",
+    "totalCost": "$80.09",
+    "notes": "Front Axle Fluid Change (Differential Fluid)"
+  },
+  {
+    "date": "05/10/2014",
+    "odometer": 101370,
+    "servicePerformed": "Transmission - Change Fluid, Filter & Gasket",
+    "location": "RWG",
+    "totalCost": "$173.99",
+    "notes": "Transmission - Change Fluid, Filter & Gasket"
+  },
+  {
+    "date": "05/10/2014",
+    "odometer": 101370,
+    "servicePerformed": "Antifreeze-Coolant - Replace fluid & other Service",
+    "location": "RWG",
+    "totalCost": "$33.92",
+    "notes": "Antifreeze, 1/2 Gallon, Can of Brake Clean, Right Stuff RTV, LUC Power Steering w/stop leak, Hazardous Waste Fee and Shop supplies for all service done on 5.10.14"
+  },
+  {
+    "date": "04/01/2015",
+    "odometer": 0,
+    "servicePerformed": "Parts Purchase",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$43.05",
+    "notes": "Misc items purchased.  See receipts for details."
+  },
+  {
+    "date": "06/24/2015",
+    "odometer": 108931,
+    "servicePerformed": "Diagnostics",
+    "location": "ACME Auto Electric Service",
+    "totalCost": "$85.48",
+    "notes": "Grounding issue was causing interior/exterior/dash lights to go off when car turned on.  Driver gear shift goes to 2nd gear.  A/C does not blow but can hear compressor come on.  He found a loose ground wire, passenger side kick panel."
+  },
+  {
+    "date": "08/06/2015",
+    "odometer": 0,
+    "servicePerformed": "Cleaning",
+    "location": "www.ebay.com",
+    "totalCost": "$45.46",
+    "notes": "Leather conditioning with 303 Protectant"
+  },
+  {
+    "date": "09/03/2015",
+    "odometer": 109211,
+    "servicePerformed": "Oil - Change oil and filter",
+    "location": "Self",
+    "totalCost": "$0.00",
+    "notes": "Royal Purple 10W30 Synthetic"
+  },
+  {
+    "date": "12/27/2015",
+    "odometer": "",
+    "servicePerformed": "Parts Purchase",
+    "location": "Home Depot",
+    "totalCost": "$5.26",
+    "notes": "Used this to fill in the hole that is in firewall, on the front passenger side.\nThis stock hole is where the A/C lines come through the firewall.  A rubber seal must have\nfallen off.  This was used and it patched it perfectly."
+  },
+  {
+    "date": "03/27/2016",
+    "odometer": 113540,
+    "servicePerformed": "Parts Purchase",
+    "location": "Autozone",
+    "totalCost": "$10.60",
+    "notes": "Tire Dressing - Black Majic.\nThey had a sale 2 (32oz) bottles for $10.\nNormally $7.50 each"
+  },
+  {
+    "date": "04/16/2016",
+    "odometer": 116000,
+    "servicePerformed": "Parts Purchase",
+    "location": "Advanced Auto Parts",
+    "totalCost": "$23.29",
+    "notes": "Power Steering Fluid w/stop leak (Valvoline Max) and Fuel System Cleaner (Royal Purple) purchased.  All items were on sale.  PS Fluid was buy 1 get 1 50% off.  FS Cleaner was $6 off."
+  },
+  {
+    "date": "05/09/2016",
+    "odometer": 114342,
+    "servicePerformed": "Oil - Change oil and filter",
+    "location": "Self",
+    "totalCost": "$0.00",
+    "notes": ""
+  },
+  {
+    "date": "05/17/2016",
+    "odometer": 116000,
+    "servicePerformed": "Purchase Parts",
+    "location": "O'Reilly Auto Parts",
+    "totalCost": "$14.86",
+    "notes": "Ran low on antifreeze in Moab and had to purchase this.  Was on sale.  Regular price $23.71"
+  },
+  {
+    "date": "08/01/2016",
+    "odometer": 118575,
+    "servicePerformed": "Parts Purchase",
+    "location": "Self",
+    "totalCost": "$97.98",
+    "notes": "Purchased case of 12 Quarts Royal Purple with free s/h."
+  },
+  {
+    "date": "08/02/2016",
+    "odometer": "",
+    "servicePerformed": "Oil - Purchase",
+    "location": "www.amazon.com",
+    "totalCost": "$97.98",
+    "notes": "Purchase 1 case (12 quarts) 10W-30 Royal Purple Synthetic Oil.  Purchased from Amazon user PStuning\nfree s/h"
+  },
+  {
+    "date": "03/30/2017",
+    "odometer": "",
+    "servicePerformed": "Wax exterior paint",
+    "location": "Pinnacle",
+    "totalCost": "$199.99",
+    "notes": "Purchased complete waxing kit from Pinnacle.  See below for all items that were included.\n\nThis promo included $50 discount, free s/h and a free sample."
+  },
+  {
+    "date": "05/17/2017",
+    "odometer": 119137,
+    "servicePerformed": "Antifreeze-Coolant - Replace fluid",
+    "location": "Lukes Auto",
+    "totalCost": "",
+    "notes": "See separate work order under REPAIRS dated 5-17-17 by Luke's Auto"
+  },
+  {
+    "date": "05/17/2017",
+    "odometer": 119137,
+    "servicePerformed": "Oil - Change oil and filter",
+    "location": "Lukes Auto",
+    "totalCost": "",
+    "notes": "See separate work order under REPAIRS on 5-17-17 for additional work done at the same time as this oil change."
+  },
+  {
+    "date": "08/14/2017",
+    "odometer": 120631,
+    "servicePerformed": "Transmission - Change Fluid, Filter & Gasket",
+    "location": "Lukes Auto",
+    "totalCost": "",
+    "notes": "See separate entry under REPAIRS for this same day.  Service was done by Luke's Auto"
+  },
+  {
+    "date": "09/06/2017",
+    "odometer": 121607,
+    "servicePerformed": "Oil - Change oil and filter",
+    "location": "Self",
+    "totalCost": "",
+    "notes": "Change oil and filter using previously owned Royal Purple Synthetic 10W30 oil and Royal Purple Oil Filter"
+  },
+  {
+    "date": "05/08/2018",
+    "odometer": 126500,
+    "servicePerformed": "Wax exterior paint",
+    "location": "Self",
+    "totalCost": "",
+    "notes": "Put 1 coat of Pinnacle wax on.  I used Pinnacle soap first, then 2nd step buffing compound then 1 coat of wax.  I did this just before the Moab trip"
+  },
+  {
+    "date": "05/27/2018",
+    "odometer": 127300,
+    "servicePerformed": "Air Filter Cleaning",
+    "location": "Self",
+    "totalCost": "$27.52",
+    "notes": "Removed, cleaned and oiled K&N Air filter.  It was very dirty after the Moab trip last week.   I also cleaned the motor / engine with Gunk engine cleaner and it worked great.  I used 1 can to clean the whole engine bay area.  Next time I'd get 2 cans."
+  },
+  {
+    "date": "06/29/2018",
+    "odometer": 128040,
+    "servicePerformed": "Oil and Filter Change",
+    "location": "Self",
+    "totalCost": "$0.00",
+    "notes": "Oil and Filter change with Royal Purple 10w30 and new Royal Purple Oil Filter."
+  },
+  {
+    "date": "11/19/2018",
+    "odometer": 131500,
+    "servicePerformed": "Brake Fluid - Fill/Add",
+    "location": "Self",
+    "totalCost": "$2.59",
+    "notes": "Brake fluid was low and the brake light was on.  I added brake fluid.  The resovoiur was about 1/2 empty."
+  }
+]
