@@ -20,7 +20,7 @@ class Maintenance extends React.Component {
      * @summary API Call #4: Perform a GET call to the API for maintenance data
      */
     loadPartData() {
-        Axios.get("https://localhost:5000/maintenance")
+        Axios.get("http://localhost:5000/maintenance")
             .then((response) => {
                 // Store the list of maintenance entries in the
                 // component state
