@@ -31,7 +31,7 @@
     },
     {
         "Part": "Adhesive Promotor - 3M 06396",
-        "PartNumber": 6396,
+        "PartNumber": "6396",
         "Manufacturer": "3M",
         "Supplier": "www.amazon.com",
         "Warranty": "",
@@ -51,7 +51,7 @@
     },
     {
         "Part": "Adhesive Spray - 3M 08088",
-        "PartNumber": 8088,
+        "PartNumber": "8088",
         "Manufacturer": "3M",
         "Supplier": "Napa",
         "Warranty": "",
@@ -81,7 +81,7 @@
     },
     {
         "Part": "Angle - Aluminum (Subwoofer Bracket)",
-        "PartNumber": 887480000000,
+        "PartNumber": "887480000000",
         "Manufacturer": "Everbilt",
         "Supplier": "Home Depot",
         "Warranty": "",
@@ -101,7 +101,7 @@
     },
     {
         "Part": "Antenna - OEM",
-        "PartNumber": 897218790,
+        "PartNumber": "897218790",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -231,7 +231,7 @@
     },
     {
         "Part": "Battery Charger / Conditioner (CTEK)",
-        "PartNumber": 7002,
+        "PartNumber": "7002",
         "Manufacturer": "CTEK",
         "Supplier": "www.amazon.com",
         "Warranty": "",
@@ -241,7 +241,7 @@
     },
     {
         "Part": "Battery Hold Downs - Universal",
-        "PartNumber": 95983,
+        "PartNumber": "95983",
         "Manufacturer": "Lynx",
         "Supplier": "Autozone",
         "Warranty": "",
@@ -281,7 +281,7 @@
     },
     {
         "Part": "Bolt - Body Black, (fenders & flares)",
-        "PartNumber": 12066,
+        "PartNumber": "12066",
         "Manufacturer": "Auveco",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 25 (sold each)",
@@ -301,7 +301,7 @@
     },
     {
         "Part": "Bolt - Front Seats (to body)",
-        "PartNumber": 8971784402,
+        "PartNumber": "8971784402",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -311,7 +311,7 @@
     },
     {
         "Part": "Bolt - Front Seats (to body) - DRIVER SIDE ONLY - Newest Bolt (black) 2018",
-        "PartNumber": 11115643,
+        "PartNumber": "11115643",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -321,7 +321,7 @@
     },
     {
         "Part": "Bolt - Front Seats (to body) - Robbie's new bolt",
-        "PartNumber": 11115643,
+        "PartNumber": "11115643",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -331,7 +331,7 @@
     },
     {
         "Part": "Bolt - Headlight assembly mounting",
-        "PartNumber": 8971471940,
+        "PartNumber": "8971471940",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -341,7 +341,7 @@
     },
     {
         "Part": "Bolt - Headlight assembly mounting (2nd purchase)",
-        "PartNumber": 8971471940,
+        "PartNumber": "8971471940",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -391,7 +391,7 @@
     },
     {
         "Part": "Bolt, Body Mount, Location 1",
-        "PartNumber": 8980515360,
+        "PartNumber": "8980515360",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu Dealership",
         "Warranty": "",
@@ -401,7 +401,7 @@
     },
     {
         "Part": "Bolt, Body Mount, Location 2",
-        "PartNumber": 8971427240,
+        "PartNumber": "8971427240",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -411,7 +411,7 @@
     },
     {
         "Part": "Bolt, Body Mount, Location 4",
-        "PartNumber": 8971427240,
+        "PartNumber": "8971427240",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -421,7 +421,7 @@
     },
     {
         "Part": "Bolt, Body Mount, Location 5 (type 1)",
-        "PartNumber": 286510200,
+        "PartNumber": "286510200",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -431,7 +431,7 @@
     },
     {
         "Part": "Bolt, Body Mount, Location 5 (type 2)",
-        "PartNumber": 8943287981,
+        "PartNumber": "8943287981",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -441,7 +441,7 @@
     },
     {
         "Part": "Bolt, Body Mount, Location 6 (type 1)",
-        "PartNumber": 286510200,
+        "PartNumber": "286510200",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -451,7 +451,7 @@
     },
     {
         "Part": "Bolt, Body Mount, Location 6 (type 2)",
-        "PartNumber": 8970915990,
+        "PartNumber": "8970915990",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -461,7 +461,7 @@
     },
     {
         "Part": "Bolt, Seatbelt Assembly",
-        "PartNumber": 39112,
+        "PartNumber": "39112",
         "Manufacturer": "Fastenal",
         "Supplier": "",
         "Warranty": "",
@@ -511,7 +511,7 @@
     },
     {
         "Part": "Brake Oil Seal - National",
-        "PartNumber": 710168,
+        "PartNumber": "710168",
         "Manufacturer": "National",
         "Supplier": "Advanced Auto Parts",
         "Warranty": "1 year replacement if defective",
@@ -561,7 +561,7 @@
     },
     {
         "Part": "Bulb - Ashtray/Dash - #74",
-        "PartNumber": 2721,
+        "PartNumber": "2721",
         "Manufacturer": "Sylvania",
         "Supplier": "Autozone",
         "Warranty": "",
@@ -571,7 +571,7 @@
     },
     {
         "Part": "Bulb - OEM Side Marker - #194",
-        "PartNumber": 5821940230,
+        "PartNumber": "5821940230",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -581,7 +581,7 @@
     },
     {
         "Part": "Bumper - Front, New",
-        "PartNumber": 8972173020,
+        "PartNumber": "8972173020",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -601,7 +601,7 @@
     },
     {
         "Part": "Bumper Front Reinforcement Beam (metal bar behind bumper)",
-        "PartNumber": 8971435345,
+        "PartNumber": "8971435345",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -611,7 +611,7 @@
     },
     {
         "Part": "Bushing, Body Mount, Location 1 (type 1)",
-        "PartNumber": 8943251552,
+        "PartNumber": "8943251552",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -621,7 +621,7 @@
     },
     {
         "Part": "Bushing, Body Mount, Location 1 (type 2)",
-        "PartNumber": 8943251560,
+        "PartNumber": "8943251560",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -631,7 +631,7 @@
     },
     {
         "Part": "Bushing, Body Mount, Location 2 (type 1)",
-        "PartNumber": 8971320780,
+        "PartNumber": "8971320780",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -641,7 +641,7 @@
     },
     {
         "Part": "Bushing, Body Mount, Location 2 (type 2)",
-        "PartNumber": 8971320790,
+        "PartNumber": "8971320790",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -651,7 +651,7 @@
     },
     {
         "Part": "Bushing, Body Mount, Location 4 (type 1)",
-        "PartNumber": 8943706292,
+        "PartNumber": "8943706292",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -661,7 +661,7 @@
     },
     {
         "Part": "Bushing, Body Mount, Location 4 (type 2)",
-        "PartNumber": 8943673070,
+        "PartNumber": "8943673070",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -671,7 +671,7 @@
     },
     {
         "Part": "Bushing, Body Mount, Location 5",
-        "PartNumber": 8943706311,
+        "PartNumber": "8943706311",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -681,7 +681,7 @@
     },
     {
         "Part": "Bushing, Body Mount, Location 6",
-        "PartNumber": 8943706311,
+        "PartNumber": "8943706311",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -701,7 +701,7 @@
     },
     {
         "Part": "Button - Exterior Mirror Controller",
-        "PartNumber": 8970601672,
+        "PartNumber": "8970601672",
         "Manufacturer": "Isuzu",
         "Supplier": "FB User = Kaso Blanc",
         "Warranty": "",
@@ -761,7 +761,7 @@
     },
     {
         "Part": "Cable - Hood Release",
-        "PartNumber": 8971061310,
+        "PartNumber": "8971061310",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu (Scott)",
         "Warranty": "",
@@ -771,7 +771,7 @@
     },
     {
         "Part": "Cable MHL (for cell phone to receiver)",
-        "PartNumber": 2003027,
+        "PartNumber": "2003027",
         "Manufacturer": "Samsung",
         "Supplier": "Best Buy",
         "Warranty": "",
@@ -791,7 +791,7 @@
     },
     {
         "Part": "Cam Plug",
-        "PartNumber": 8971493380,
+        "PartNumber": "8971493380",
         "Manufacturer": "NOK",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -821,7 +821,7 @@
     },
     {
         "Part": "Camshaft Seal",
-        "PartNumber": 8943895931,
+        "PartNumber": "8943895931",
         "Manufacturer": "Nippon Reinz",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -841,7 +841,7 @@
     },
     {
         "Part": "Cargo Mat",
-        "PartNumber": 2904969050,
+        "PartNumber": "2904969050",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Automotive Group",
         "Warranty": "",
@@ -901,7 +901,7 @@
     },
     {
         "Part": "Cigarette Socket Ring (pack of 5)",
-        "PartNumber": 2603247,
+        "PartNumber": "2603247",
         "Manufacturer": "",
         "Supplier": "www.ecstuning.com",
         "Warranty": "",
@@ -931,7 +931,7 @@
     },
     {
         "Part": "Clip - Interior Door Handle Switch Box",
-        "PartNumber": 8971720430,
+        "PartNumber": "8971720430",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -941,7 +941,7 @@
     },
     {
         "Part": "Clip for Hood Release Cable",
-        "PartNumber": 1739076180,
+        "PartNumber": "1739076180",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu (Scott)",
         "Warranty": "",
@@ -951,7 +951,7 @@
     },
     {
         "Part": "Code Reader - OBDII (Harbor Freight)",
-        "PartNumber": 60794,
+        "PartNumber": "60794",
         "Manufacturer": "Cen-Tech",
         "Supplier": "Harbor Freight",
         "Warranty": "",
@@ -1111,7 +1111,7 @@
     },
     {
         "Part": "Connector Posi Lock - Stereo Wire Harness Connector Kit 2",
-        "PartNumber": 500,
+        "PartNumber": "500",
         "Manufacturer": "Posi-Lock",
         "Supplier": "www.posi-products.com",
         "Warranty": "",
@@ -1241,7 +1241,7 @@
     },
     {
         "Part": "Control Arm - Front Left",
-        "PartNumber": 8971041751,
+        "PartNumber": "8971041751",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -1261,7 +1261,7 @@
     },
     {
         "Part": "Cowl Vent Panel Grille - Air Intake Grille, LEFT (short grille)",
-        "PartNumber": 8944347780,
+        "PartNumber": "8944347780",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1271,7 +1271,7 @@
     },
     {
         "Part": "Cowl Vent Panel Grille - Air Intake Grille, RIGHT (long grille)",
-        "PartNumber": 8944347790,
+        "PartNumber": "8944347790",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1281,7 +1281,7 @@
     },
     {
         "Part": "Cowl Vent Panel Spacer",
-        "PartNumber": 8944418430,
+        "PartNumber": "8944418430",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1301,7 +1301,7 @@
     },
     {
         "Part": "Crankshaft Pulley - Doorman",
-        "PartNumber": 8973212960,
+        "PartNumber": "8973212960",
         "Manufacturer": "Doorman",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -1311,7 +1311,7 @@
     },
     {
         "Part": "Crankshaft Seal",
-        "PartNumber": 8970233730,
+        "PartNumber": "8970233730",
         "Manufacturer": "NOK",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -1341,7 +1341,7 @@
     },
     {
         "Part": "Decal - 3.5L",
-        "PartNumber": 2900428210,
+        "PartNumber": "2900428210",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1351,7 +1351,7 @@
     },
     {
         "Part": "Decal - 4WD",
-        "PartNumber": 8972245770,
+        "PartNumber": "8972245770",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -1381,7 +1381,7 @@
     },
     {
         "Part": "Decal - TOD",
-        "PartNumber": 2900429240,
+        "PartNumber": "2900429240",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Automotive Group",
         "Warranty": "",
@@ -1391,7 +1391,7 @@
     },
     {
         "Part": "Decal - TOD, Jack Miller Kia",
-        "PartNumber": 2900429240,
+        "PartNumber": "2900429240",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -1401,7 +1401,7 @@
     },
     {
         "Part": "Decal - VehiCross (for B Pillars)",
-        "PartNumber": 2900429230,
+        "PartNumber": "2900429230",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Automotive Group",
         "Warranty": "",
@@ -1411,7 +1411,7 @@
     },
     {
         "Part": "Decal - Yellow Radioactive - APC Super Street",
-        "PartNumber": 108322,
+        "PartNumber": "108322",
         "Manufacturer": "APC",
         "Supplier": "www.jcwhitney.com",
         "Warranty": "",
@@ -1471,7 +1471,7 @@
     },
     {
         "Part": "Door Handle - Rear Tailgate - Isuzu",
-        "PartNumber": 8971760541,
+        "PartNumber": "8971760541",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1481,7 +1481,7 @@
     },
     {
         "Part": "Door Hinge Pins",
-        "PartNumber": 38397,
+        "PartNumber": "38397",
         "Manufacturer": "Dorman",
         "Supplier": "www.finditparts.com",
         "Warranty": "",
@@ -1491,7 +1491,7 @@
     },
     {
         "Part": "Door Seal Weatherstrip - Left (on door, not the frame)",
-        "PartNumber": 8971431152,
+        "PartNumber": "8971431152",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1501,7 +1501,7 @@
     },
     {
         "Part": "Door Seal Weatherstrip - Left (on frame, not the door)",
-        "PartNumber": 8972140121,
+        "PartNumber": "8972140121",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1511,7 +1511,7 @@
     },
     {
         "Part": "Door Seal Weatherstrip - Right (on door, not the frame)",
-        "PartNumber": 8971431142,
+        "PartNumber": "8971431142",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1521,7 +1521,7 @@
     },
     {
         "Part": "Door Seal Weatherstrip - Right (on frame, not the door)",
-        "PartNumber": 8972140111,
+        "PartNumber": "8972140111",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1571,7 +1571,7 @@
     },
     {
         "Part": "Door Striker - metal latch attached to farme in doorway",
-        "PartNumber": 8943584620,
+        "PartNumber": "8943584620",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1591,7 +1591,7 @@
     },
     {
         "Part": "Drill Bit - Step Bit 2 Piece Titanium",
-        "PartNumber": 69088,
+        "PartNumber": "69088",
         "Manufacturer": "Harbor Freight",
         "Supplier": "Harbor Freight",
         "Warranty": "",
@@ -1601,7 +1601,7 @@
     },
     {
         "Part": "Dynaliner - 1/8\", Dynamat 11101",
-        "PartNumber": 11101,
+        "PartNumber": "11101",
         "Manufacturer": "Dynamatt",
         "Supplier": "www.streetsideauto.com",
         "Warranty": "",
@@ -1611,7 +1611,7 @@
     },
     {
         "Part": "Dynaliner Foam - 1/2\", Dynamat 11103",
-        "PartNumber": 11103,
+        "PartNumber": "11103",
         "Manufacturer": "Dynamat",
         "Supplier": "www.streetsideauto.com",
         "Warranty": "",
@@ -1621,7 +1621,7 @@
     },
     {
         "Part": "Dynaliner Foam - 1/4\", Dynamat 11102",
-        "PartNumber": 11102,
+        "PartNumber": "11102",
         "Manufacturer": "Dynamat",
         "Supplier": "www.streetsideauto.com",
         "Warranty": "",
@@ -1641,7 +1641,7 @@
     },
     {
         "Part": "Dynamat License Plate Kit - Dynamat 19100",
-        "PartNumber": 19100,
+        "PartNumber": "19100",
         "Manufacturer": "Dynamat",
         "Supplier": "www.streetsideauto.com",
         "Warranty": "",
@@ -1651,7 +1651,7 @@
     },
     {
         "Part": "Dynamat Roller Professional - Dynamat 10007",
-        "PartNumber": 10007,
+        "PartNumber": "10007",
         "Manufacturer": "Dynamat",
         "Supplier": "www.streetsideauto.com",
         "Warranty": "",
@@ -1661,7 +1661,7 @@
     },
     {
         "Part": "Dynamat Xtreme - Door Kit, Dynamat 10435 (4 pieces)",
-        "PartNumber": 10435,
+        "PartNumber": "10435",
         "Manufacturer": "Dynamat",
         "Supplier": "www.streetsideauto.com",
         "Warranty": "",
@@ -1671,7 +1671,7 @@
     },
     {
         "Part": "Dynamat Xtreme - Mega Pack (9 sheets)",
-        "PartNumber": 10465,
+        "PartNumber": "10465",
         "Manufacturer": "Dynamat",
         "Supplier": "www.streetsideauto.com",
         "Warranty": "",
@@ -1681,7 +1681,7 @@
     },
     {
         "Part": "Dynapad - 1/2\", Dynamat 21100",
-        "PartNumber": 21100,
+        "PartNumber": "21100",
         "Manufacturer": "Dynamat",
         "Supplier": "www.sidestreetauto.com",
         "Warranty": "",
@@ -1701,7 +1701,7 @@
     },
     {
         "Part": "E-Clip - Retaining Ring for Spare Tire Cover Knobs",
-        "PartNumber": 1168087,
+        "PartNumber": "1168087",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "1 each",
@@ -1711,7 +1711,7 @@
     },
     {
         "Part": "Engine",
-        "PartNumber": 111,
+        "PartNumber": "111",
         "Manufacturer": "",
         "Supplier": "Advanced Engine",
         "Warranty": "3 years unlimited mileage",
@@ -1731,7 +1731,7 @@
     },
     {
         "Part": "Fan Clutch - Four Seasons (used by Lukes Auto)",
-        "PartNumber": 8971722002,
+        "PartNumber": "8971722002",
         "Manufacturer": "Four Seasons",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -1741,7 +1741,7 @@
     },
     {
         "Part": "Fangs - Front Grill Inserts",
-        "PartNumber": 2901409010,
+        "PartNumber": "2901409010",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Automotive Group",
         "Warranty": "",
@@ -1751,7 +1751,7 @@
     },
     {
         "Part": "Fastener - Exterior - Pin Type, Cladding (white nipples), Jack Miller Kia",
-        "PartNumber": 8971694880,
+        "PartNumber": "8971694880",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -1771,7 +1771,7 @@
     },
     {
         "Part": "Fastener - Exterior - Pin Type, Cladding (white nipples), St Charles",
-        "PartNumber": 8971694880,
+        "PartNumber": "8971694880",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1781,7 +1781,7 @@
     },
     {
         "Part": "Fastener - Exterior - Retainer Push Type - Door Rocker Panels, Front Fender to body",
-        "PartNumber": 17216,
+        "PartNumber": "17216",
         "Manufacturer": "Auveco",
         "Supplier": "www.amazon.com",
         "Warranty": "",
@@ -1791,7 +1791,7 @@
     },
     {
         "Part": "Fastener - Exterior - Retainer Push Type - Door Rocker Panels, Front Fender to body",
-        "PartNumber": 17216,
+        "PartNumber": "17216",
         "Manufacturer": "Auveco",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 25, sold each",
@@ -1801,7 +1801,7 @@
     },
     {
         "Part": "Fastener - Exterior - Retainer Push Type - Lower Door Seal (driver/passenger) & Lower Door Rocker Panel (driver/passenger)",
-        "PartNumber": 17632,
+        "PartNumber": "17632",
         "Manufacturer": "Auveco",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 50, sold each",
@@ -1811,7 +1811,7 @@
     },
     {
         "Part": "Fastener - Exterior - Retainer Push Type - Rear Tire Well, for small skirt/cover)",
-        "PartNumber": 14727,
+        "PartNumber": "14727",
         "Manufacturer": "Auveco",
         "Supplier": "www.dixied.com",
         "Warranty": "",
@@ -1821,7 +1821,7 @@
     },
     {
         "Part": "Fastener - Exterior - Retaining Clip - Cowl Vent Panel (25 pack)",
-        "PartNumber": 16776,
+        "PartNumber": "16776",
         "Manufacturer": "Auveco",
         "Supplier": "www.ebay.com user=fastenerclipshop",
         "Warranty": "",
@@ -1831,7 +1831,7 @@
     },
     {
         "Part": "Fastener - Exterior - Retaining Clip - Cowl Vent Panel (OEM)",
-        "PartNumber": 8941455150,
+        "PartNumber": "8941455150",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -1841,7 +1841,7 @@
     },
     {
         "Part": "Fastener - Exterior - Retaining Clip - Cowl Vent Panel (OEM) 2nd Order",
-        "PartNumber": 8941455150,
+        "PartNumber": "8941455150",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -1851,7 +1851,7 @@
     },
     {
         "Part": "Fastener - Exterior - Retaining Clip - Hood Insulator",
-        "PartNumber": 15998,
+        "PartNumber": "15998",
         "Manufacturer": "Auveco",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 15",
@@ -1861,7 +1861,7 @@
     },
     {
         "Part": "Fastener - Exterior - Retaining Clip - Rivets Replacement",
-        "PartNumber": 18297,
+        "PartNumber": "18297",
         "Manufacturer": "Auveco",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 50 (sold each)",
@@ -1871,7 +1871,7 @@
     },
     {
         "Part": "Fastener - Exterior - Window Drip Seal, Rubber Seal",
-        "PartNumber": 8944297260,
+        "PartNumber": "8944297260",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1891,7 +1891,7 @@
     },
     {
         "Part": "Fastener - Interior - Head Liner",
-        "PartNumber": 8971532540,
+        "PartNumber": "8971532540",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -1901,7 +1901,7 @@
     },
     {
         "Part": "Fastener - Interior - Hole Cover for Clip (Side walls w/speakers, near headliner, hides clip)",
-        "PartNumber": 8971986450,
+        "PartNumber": "8971986450",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1921,7 +1921,7 @@
     },
     {
         "Part": "Fastener - Interior - Trim Panel Clip, Side Wall to Ceiling (above head at back seat), (OEM) Jack Miller Kia",
-        "PartNumber": 8942596710,
+        "PartNumber": "8942596710",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -1931,7 +1931,7 @@
     },
     {
         "Part": "Fastener - Interior - Trim Panel Clip, Side Wall to Ceiling (above head at back seat), (OEM) St Charles",
-        "PartNumber": 8942596710,
+        "PartNumber": "8942596710",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -1941,7 +1941,7 @@
     },
     {
         "Part": "Fastener - Interior - Trim Panel Clip, Side Wall to Ceiling (above head at back seat), AUVECO 14289",
-        "PartNumber": 14289,
+        "PartNumber": "14289",
         "Manufacturer": "Auveco",
         "Supplier": "ebay user=FastenerClipShop",
         "Warranty": "",
@@ -1951,7 +1951,7 @@
     },
     {
         "Part": "Fastener - Interior - Trim Panel Clip, Side Wall to Ceiling (rear by seatbelt), Auveco 16775, Bag of 20",
-        "PartNumber": 16775,
+        "PartNumber": "16775",
         "Manufacturer": "Auveco",
         "Supplier": "ebay member=blackstone_motor126",
         "Warranty": "",
@@ -1961,7 +1961,7 @@
     },
     {
         "Part": "Fastener - Interior - Trim Panel Clip, Side Wall to Ceiling (rear by seatbelt), Auveco 16775, Box of 25",
-        "PartNumber": 16775,
+        "PartNumber": "16775",
         "Manufacturer": "Auveco",
         "Supplier": "www.clipsandfasteners.com",
         "Warranty": "",
@@ -1971,7 +1971,7 @@
     },
     {
         "Part": "Fastener - Interior - Trim Panel, Xmas Fasteners (side wall to body)",
-        "PartNumber": 17102,
+        "PartNumber": "17102",
         "Manufacturer": "Auveco",
         "Supplier": "www.dixied.com",
         "Warranty": "Package of 50",
@@ -1981,7 +1981,7 @@
     },
     {
         "Part": "Fender Flare Left - New OEM (top part inside tire well)",
-        "PartNumber": 8971435273,
+        "PartNumber": "8971435273",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -1991,7 +1991,7 @@
     },
     {
         "Part": "Fender Left - New OEM",
-        "PartNumber": 8972173060,
+        "PartNumber": "8972173060",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -2001,7 +2001,7 @@
     },
     {
         "Part": "Fender Liner Left - New OEM",
-        "PartNumber": 8973021630,
+        "PartNumber": "8973021630",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -2011,7 +2011,7 @@
     },
     {
         "Part": "Filter - Air",
-        "PartNumber": 2908429000,
+        "PartNumber": "2908429000",
         "Manufacturer": "Full",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -2151,7 +2151,7 @@
     },
     {
         "Part": "Foam Seal - (in front of radiator) - Right Side - Isuzu",
-        "PartNumber": 8971678272,
+        "PartNumber": "8971678272",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -2161,7 +2161,7 @@
     },
     {
         "Part": "Foam Sealant - Insulating, Big Gap Filler",
-        "PartNumber": 248314,
+        "PartNumber": "248314",
         "Manufacturer": "Great Stuff",
         "Supplier": "Home Depot",
         "Warranty": "",
@@ -2181,7 +2181,7 @@
     },
     {
         "Part": "Front License Plate Cover",
-        "PartNumber": 2903109400,
+        "PartNumber": "2903109400",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Automotive Group",
         "Warranty": "",
@@ -2191,7 +2191,7 @@
     },
     {
         "Part": "Front License Plate Cover, Jack Miller Kia",
-        "PartNumber": 2903109400,
+        "PartNumber": "2903109400",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -2201,7 +2201,7 @@
     },
     {
         "Part": "Fuel System Cleaner, Royal Purple",
-        "PartNumber": 10881745,
+        "PartNumber": "10881745",
         "Manufacturer": "Royal Purple",
         "Supplier": "Advance Auto Parts",
         "Warranty": "",
@@ -2231,7 +2231,7 @@
     },
     {
         "Part": "Gasket - Throttle Body",
-        "PartNumber": 8943893930,
+        "PartNumber": "8943893930",
         "Manufacturer": "",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -2251,7 +2251,7 @@
     },
     {
         "Part": "Gasket - Water Outlet",
-        "PartNumber": 897136346,
+        "PartNumber": "897136346",
         "Manufacturer": "Gates",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -2281,7 +2281,7 @@
     },
     {
         "Part": "Grease - Dielectric Grease",
-        "PartNumber": 22058,
+        "PartNumber": "22058",
         "Manufacturer": "Permatex",
         "Supplier": "Autozone",
         "Warranty": "",
@@ -2291,7 +2291,7 @@
     },
     {
         "Part": "Grommet - Door Frame/Jam - Screw Type - Retangle shape, OEM",
-        "PartNumber": 8971345660,
+        "PartNumber": "8971345660",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -2331,7 +2331,7 @@
     },
     {
         "Part": "Grommet - Exterior - Pin Type - for Cladding, Black, only used twice, once on each door, OEM",
-        "PartNumber": 8971613200,
+        "PartNumber": "8971613200",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -2351,7 +2351,7 @@
     },
     {
         "Part": "Grommet - Exterior - Pin Type - for Cladding, OEM, Jack Miller Kia",
-        "PartNumber": 8971694880,
+        "PartNumber": "8971694880",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -2361,7 +2361,7 @@
     },
     {
         "Part": "Grommet - Exterior - Pin Type - for Cladding, OEM, St Charles",
-        "PartNumber": 8971613190,
+        "PartNumber": "8971613190",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -2371,7 +2371,7 @@
     },
     {
         "Part": "Grommet - Exterior - Pressure Vent, Qtr Panel, OEM",
-        "PartNumber": 8942919270,
+        "PartNumber": "8942919270",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -2381,7 +2381,7 @@
     },
     {
         "Part": "Grommet - Exterior - Rubber - Hood Support Rod to Body, OEM",
-        "PartNumber": 8942205082,
+        "PartNumber": "8942205082",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -2391,7 +2391,7 @@
     },
     {
         "Part": "Grommet - Exterior - Screw Type - for Cladding screws, used with long oem & new stainless cladding screws, see notes), AUVECO",
-        "PartNumber": 21324,
+        "PartNumber": "21324",
         "Manufacturer": "Auveco",
         "Supplier": "www.dixied.com",
         "Warranty": "",
@@ -2401,7 +2401,7 @@
     },
     {
         "Part": "Grommet - Exterior - Screw Type - for Cladding screws, used with long oem & new stainless cladding screws, see notes), OEM",
-        "PartNumber": 8944415390,
+        "PartNumber": "8944415390",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -2411,7 +2411,7 @@
     },
     {
         "Part": "Grommet - Exterior - Screw Type - for Cladding, only used with short oem cladding screws, see notes, AUVECO",
-        "PartNumber": 20303,
+        "PartNumber": "20303",
         "Manufacturer": "Auveco",
         "Supplier": "www.dixied.com",
         "Warranty": "",
@@ -2421,7 +2421,7 @@
     },
     {
         "Part": "Grommet - Exterior - Screw Type - for Cladding, only used with short oem cladding screws, see notes, OEM",
-        "PartNumber": 8943675280,
+        "PartNumber": "8943675280",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "Auveco 20303",
@@ -2431,7 +2431,7 @@
     },
     {
         "Part": "Grommet - Exterior - Screw Type - Front Side Marker Lights, OEM",
-        "PartNumber": 5094700020,
+        "PartNumber": "5094700020",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -2441,7 +2441,7 @@
     },
     {
         "Part": "Grommet - Exterior - Screw Type - Front Side Marker Lights, Pack of 50, AUVECO",
-        "PartNumber": 20245,
+        "PartNumber": "20245",
         "Manufacturer": "Auveco",
         "Supplier": "www.ebay.com  user=silverbird59",
         "Warranty": "",
@@ -2451,7 +2451,7 @@
     },
     {
         "Part": "Grommet - Exterior - Screw Type - Front Side Marker Lights, SAMPLE",
-        "PartNumber": 9862,
+        "PartNumber": "9862",
         "Manufacturer": "Auveco",
         "Supplier": "Auveco",
         "Warranty": "",
@@ -2461,7 +2461,7 @@
     },
     {
         "Part": "Grommet - Exterior - Support Rod",
-        "PartNumber": 8942205082,
+        "PartNumber": "8942205082",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -2471,7 +2471,7 @@
     },
     {
         "Part": "Grommet - Interior - Screw Type - Interior Door Handle, OEM",
-        "PartNumber": 8942919270,
+        "PartNumber": "8942919270",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -2481,7 +2481,7 @@
     },
     {
         "Part": "Grommet - Interior - Screw Type - Interior Door Panel Handle (handle does not move, stationary), OEM",
-        "PartNumber": 8943701520,
+        "PartNumber": "8943701520",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -2531,7 +2531,7 @@
     },
     {
         "Part": "Headlight Assembly - Left New",
-        "PartNumber": 8972071870,
+        "PartNumber": "8972071870",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -2541,7 +2541,7 @@
     },
     {
         "Part": "Headlight Assembly - OEM New",
-        "PartNumber": 8972071870,
+        "PartNumber": "8972071870",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -2651,7 +2651,7 @@
     },
     {
         "Part": "Hood Bumper Stopper - Rubber",
-        "PartNumber": 8978106010,
+        "PartNumber": "8978106010",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -2671,7 +2671,7 @@
     },
     {
         "Part": "Hood Insert Drain",
-        "PartNumber": 1767390902,
+        "PartNumber": "1767390902",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -2681,7 +2681,7 @@
     },
     {
         "Part": "Hood Support Rod",
-        "PartNumber": 8971731250,
+        "PartNumber": "8971731250",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -2751,7 +2751,7 @@
     },
     {
         "Part": "Knob - Tail Gate",
-        "PartNumber": 8971619920,
+        "PartNumber": "8971619920",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3001,7 +3001,7 @@
     },
     {
         "Part": "License Plate Lamp Assembly - Includes Cable, cover, bulb, seal, plate, etc.",
-        "PartNumber": 8971685300,
+        "PartNumber": "8971685300",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3011,7 +3011,7 @@
     },
     {
         "Part": "Lug Nuts - 12mm x 1.50 RH",
-        "PartNumber": 64012,
+        "PartNumber": "64012",
         "Manufacturer": "McGard",
         "Supplier": "www.summitracing.com",
         "Warranty": "",
@@ -3061,7 +3061,7 @@
     },
     {
         "Part": "Molding - Windshield, LEFT side at bottom corners",
-        "PartNumber": 8972077140,
+        "PartNumber": "8972077140",
         "Manufacturer": "Isuzu",
         "Supplier": "FB user = Kaso Blanc",
         "Warranty": "",
@@ -3071,7 +3071,7 @@
     },
     {
         "Part": "Molding - Windshield, RIGHT side at bottom corners",
-        "PartNumber": 8971627521,
+        "PartNumber": "8971627521",
         "Manufacturer": "Isuzu",
         "Supplier": "FB user = Kaso Blanc",
         "Warranty": "",
@@ -3091,7 +3091,7 @@
     },
     {
         "Part": "Nozzle - Windshield Wiper",
-        "PartNumber": 8971473300,
+        "PartNumber": "8971473300",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3101,7 +3101,7 @@
     },
     {
         "Part": "Nut - Flange SS - Hood Insert, Moon Piece to body, Ext Mirrors to bracket, 3rd Brake Light to housing, Wiper Motor Part under Cowing, Check Door Nut, Instrument Panel Nut, Defroster Grille Nut, Tailgate Check Arm Nut, Windshield Washer Assembly Pivot Nut.",
-        "PartNumber": 173255,
+        "PartNumber": "173255",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 25 (sold each)",
@@ -3111,7 +3111,7 @@
     },
     {
         "Part": "Nut - Flange SS - Rear Side Parking Light Aseembly, holds cover to housing",
-        "PartNumber": 129149,
+        "PartNumber": "129149",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 4, sold each",
@@ -3131,7 +3131,7 @@
     },
     {
         "Part": "Nut - Hex - Screw for Gas Cap Assembly",
-        "PartNumber": 1170708,
+        "PartNumber": "1170708",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 4 (sold each)",
@@ -3141,7 +3141,7 @@
     },
     {
         "Part": "Nut - Same as 0173255 but this is just a nut",
-        "PartNumber": 11101239,
+        "PartNumber": "11101239",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -3151,7 +3151,7 @@
     },
     {
         "Part": "Nut - Seat Extender",
-        "PartNumber": 36405,
+        "PartNumber": "36405",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -3161,7 +3161,7 @@
     },
     {
         "Part": "Nut - Seat Extender - Lock Nut (not being used)",
-        "PartNumber": 37557,
+        "PartNumber": "37557",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -3171,7 +3171,7 @@
     },
     {
         "Part": "Nut, Body Mount, Location 1",
-        "PartNumber": 911802100,
+        "PartNumber": "911802100",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -3181,7 +3181,7 @@
     },
     {
         "Part": "Nut, Body Mount, Location 2",
-        "PartNumber": 911802100,
+        "PartNumber": "911802100",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -3191,7 +3191,7 @@
     },
     {
         "Part": "Nut, Body Mount, Location 4",
-        "PartNumber": 911802100,
+        "PartNumber": "911802100",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -3201,7 +3201,7 @@
     },
     {
         "Part": "Nut, Body Mount, Location 5",
-        "PartNumber": 911802100,
+        "PartNumber": "911802100",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -3261,7 +3261,7 @@
     },
     {
         "Part": "Oil - Royal Purple - Case of 12 Quarts",
-        "PartNumber": 12130,
+        "PartNumber": "12130",
         "Manufacturer": "Royal Purple",
         "Supplier": "amazon.com member=PStuning",
         "Warranty": "",
@@ -3301,7 +3301,7 @@
     },
     {
         "Part": "O-Ring - Water Pipe (used by Luke's Auto) 1.37",
-        "PartNumber": 1096231300,
+        "PartNumber": "1096231300",
         "Manufacturer": "",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -3311,7 +3311,7 @@
     },
     {
         "Part": "O-Ring - Water Pipe (used by Luke's Auto) 3.93",
-        "PartNumber": 9095612250,
+        "PartNumber": "9095612250",
         "Manufacturer": "",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -3321,7 +3321,7 @@
     },
     {
         "Part": "Paint - Proton Yellow OEM Small bottle of paint",
-        "PartNumber": 2900468040,
+        "PartNumber": "2900468040",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Automotive Group",
         "Warranty": "",
@@ -3331,7 +3331,7 @@
     },
     {
         "Part": "Paint - Proton Yellow OEM Small bottle of paint, Jack Miller Kia",
-        "PartNumber": 2900468040,
+        "PartNumber": "2900468040",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -3341,7 +3341,7 @@
     },
     {
         "Part": "Parking Light Assembly Right",
-        "PartNumber": 8972071910,
+        "PartNumber": "8972071910",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -3371,7 +3371,7 @@
     },
     {
         "Part": "PCV Valve Grommet",
-        "PartNumber": 8970746530,
+        "PartNumber": "8970746530",
         "Manufacturer": "Nippon Reinz",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -3431,7 +3431,7 @@
     },
     {
         "Part": "Power Steering Fluid w/stop leak, 32 oz, Valvoline",
-        "PartNumber": 7080052,
+        "PartNumber": "7080052",
         "Manufacturer": "Valvoline",
         "Supplier": "Advance Auto Parts",
         "Warranty": "",
@@ -3441,7 +3441,7 @@
     },
     {
         "Part": "Power Steering Pressure Sensor",
-        "PartNumber": 8971883700,
+        "PartNumber": "8971883700",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -3491,8 +3491,8 @@
     },
     {
         "Part": "Protectant - 303 Interior - gallon (30320)",
-        "PartNumber": 30320,
-        "Manufacturer": 303,
+        "PartNumber": "30320",
+        "Manufacturer": "303",
         "Supplier": "www.ebay.com",
         "Warranty": "",
         "Quantity": 1,
@@ -3501,8 +3501,8 @@
     },
     {
         "Part": "Protectant - 303 Interior 32 oz (30320)",
-        "PartNumber": 30320,
-        "Manufacturer": 303,
+        "PartNumber": "30320",
+        "Manufacturer": "303",
         "Supplier": "www.amazon.com",
         "Warranty": "",
         "Quantity": 1,
@@ -3531,7 +3531,7 @@
     },
     {
         "Part": "Radiator Support Front",
-        "PartNumber": 8972348480,
+        "PartNumber": "8972348480",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -3581,7 +3581,7 @@
     },
     {
         "Part": "Rivot - Fenders",
-        "PartNumber": 8971221430,
+        "PartNumber": "8971221430",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3652,7 +3652,7 @@
     {
         "Part": "Rocker Switch - USB Dual Power Ports (blue)",
         "PartNumber": "",
-        "Manufacturer": 10.85,
+        "Manufacturer": "10.85",
         "Supplier": "ebay member = ldww4969",
         "Warranty": "",
         "Quantity": 1,
@@ -3711,7 +3711,7 @@
     },
     {
         "Part": "Roof Molding - Front Left - METAL Molding over doorjam.  Screws into the frame",
-        "PartNumber": 8972129960,
+        "PartNumber": "8972129960",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3721,7 +3721,7 @@
     },
     {
         "Part": "Roof Molding - Front Right - METAL Molding over doorjam.  Screws into the frame",
-        "PartNumber": 8972129950,
+        "PartNumber": "8972129950",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3731,7 +3731,7 @@
     },
     {
         "Part": "Roof Molding - Rear Left - Rubber Molding inside channels on roof",
-        "PartNumber": 8972172581,
+        "PartNumber": "8972172581",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3741,7 +3741,7 @@
     },
     {
         "Part": "Roof Molding - Rear Right - Rubber Molding inside channels on roof",
-        "PartNumber": 8972172571,
+        "PartNumber": "8972172571",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3761,7 +3761,7 @@
     },
     {
         "Part": "Roofbag",
-        "PartNumber": 374404,
+        "PartNumber": "374404",
         "Manufacturer": "Roofbag",
         "Supplier": "www.roofbag.com",
         "Warranty": "",
@@ -3841,7 +3841,7 @@
     },
     {
         "Part": "Rotors - Rear - Big O 96339",
-        "PartNumber": 96339,
+        "PartNumber": "96339",
         "Manufacturer": "",
         "Supplier": "Big O",
         "Warranty": "",
@@ -3851,7 +3851,7 @@
     },
     {
         "Part": "Rotors, Slotted with new brake pads - Magnum",
-        "PartNumber": 4367240000000,
+        "PartNumber": "4367240000000",
         "Manufacturer": "GForce Brakes",
         "Supplier": "ebay member gforcebrakes",
         "Warranty": "",
@@ -3871,7 +3871,7 @@
     },
     {
         "Part": "Rust Neutralizer Aerosol",
-        "PartNumber": 633877,
+        "PartNumber": "633877",
         "Manufacturer": "Loctite",
         "Supplier": "Autozone",
         "Warranty": "",
@@ -3891,7 +3891,7 @@
     },
     {
         "Part": "Screw - Exterior - Battery Box to body, Stainless",
-        "PartNumber": 1131532,
+        "PartNumber": "1131532",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 12 (sold each)",
@@ -3901,7 +3901,7 @@
     },
     {
         "Part": "Screw - Exterior - Cladding Long OEM",
-        "PartNumber": 8971699440,
+        "PartNumber": "8971699440",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3911,7 +3911,7 @@
     },
     {
         "Part": "Screw - Exterior - Cladding Long, Stainless replacement",
-        "PartNumber": 171864,
+        "PartNumber": "171864",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 40 (sold each)",
@@ -3921,7 +3921,7 @@
     },
     {
         "Part": "Screw - Exterior - Cowl Vent Panel, OEM",
-        "PartNumber": 8943808321,
+        "PartNumber": "8943808321",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3931,7 +3931,7 @@
     },
     {
         "Part": "Screw - Exterior - Drip Channel (metal channel above doorjam) OEM",
-        "PartNumber": 743004100,
+        "PartNumber": "743004100",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -3941,7 +3941,7 @@
     },
     {
         "Part": "Screw - Exterior - Fender Flares OEM",
-        "PartNumber": 8971699440,
+        "PartNumber": "8971699440",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -3951,7 +3951,7 @@
     },
     {
         "Part": "Screw - Exterior - Front Grille Assembly to body and optional Front License Plate Cover",
-        "PartNumber": 12324,
+        "PartNumber": "12324",
         "Manufacturer": "Auveco",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 12, sold each",
@@ -3961,7 +3961,7 @@
     },
     {
         "Part": "Screw - Exterior - Front Grille Bracket, Stainless",
-        "PartNumber": 71800,
+        "PartNumber": "71800",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 4 (sold each)",
@@ -3981,7 +3981,7 @@
     },
     {
         "Part": "Screw - Exterior - Mirror (mirror to bracket), Stainless",
-        "PartNumber": 72514,
+        "PartNumber": "72514",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -3991,7 +3991,7 @@
     },
     {
         "Part": "Screw - Exterior - Pressure Vent Screw",
-        "PartNumber": 31406,
+        "PartNumber": "31406",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 25, sold each",
@@ -4001,7 +4001,7 @@
     },
     {
         "Part": "Screw - Exterior - Side Marker (Front & Rear) Light Assembly to body",
-        "PartNumber": 1172908,
+        "PartNumber": "1172908",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 8, sold each",
@@ -4011,7 +4011,7 @@
     },
     {
         "Part": "Screw - Exterior - Socket Cap for Fuel Door Assembly, Stainless",
-        "PartNumber": 1173450,
+        "PartNumber": "1173450",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 4 (sold each)",
@@ -4021,7 +4021,7 @@
     },
     {
         "Part": "Screw - Exterior - Spoiler 3rd Brake Light Bar to Housing",
-        "PartNumber": 12213,
+        "PartNumber": "12213",
         "Manufacturer": "Auveco",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 50, sold each",
@@ -4031,7 +4031,7 @@
     },
     {
         "Part": "Screw - Exterior - Trim Tail Light Assembly & Brackets for Spare Tire Cover., Black",
-        "PartNumber": 11792,
+        "PartNumber": "11792",
         "Manufacturer": "Auveco",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -4041,7 +4041,7 @@
     },
     {
         "Part": "Screw - Interior - Door Handle Switch Panel",
-        "PartNumber": 9070663100,
+        "PartNumber": "9070663100",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -4051,7 +4051,7 @@
     },
     {
         "Part": "Screw - Interior - Most Interior items, Black tapping screw, flat top washer head, Auveco (box of 34)",
-        "PartNumber": 12953,
+        "PartNumber": "12953",
         "Manufacturer": "Auveco",
         "Supplier": "www.ebay.com",
         "Warranty": "",
@@ -4081,7 +4081,7 @@
     },
     {
         "Part": "Screw - Interior - Some Interior Items such as for Door Handle (interior behind handle), etc., Lg round black head w/no washer",
-        "PartNumber": 8970620570,
+        "PartNumber": "8970620570",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -4091,7 +4091,7 @@
     },
     {
         "Part": "Screw - Interior - Sun Visor & Visor Holder, OEM",
-        "PartNumber": 705804160,
+        "PartNumber": "705804160",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -4101,7 +4101,7 @@
     },
     {
         "Part": "Screw - Interior - Sun Visor Holder, Stainless (small gray cube)",
-        "PartNumber": 72280,
+        "PartNumber": "72280",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 12, sold each",
@@ -4131,7 +4131,7 @@
     },
     {
         "Part": "Seal - Door Shell",
-        "PartNumber": 8971476290,
+        "PartNumber": "8971476290",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -4141,7 +4141,7 @@
     },
     {
         "Part": "Seal - Headlight Left",
-        "PartNumber": 8972124480,
+        "PartNumber": "8972124480",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Automotive Group",
         "Warranty": "",
@@ -4151,7 +4151,7 @@
     },
     {
         "Part": "Seal - Headlight Right",
-        "PartNumber": 8972124470,
+        "PartNumber": "8972124470",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Automotive Group",
         "Warranty": "",
@@ -4161,7 +4161,7 @@
     },
     {
         "Part": "Seal - In front of radiator, Left",
-        "PartNumber": 8971678281,
+        "PartNumber": "8971678281",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -4181,7 +4181,7 @@
     },
     {
         "Part": "Seal - Window - Felt Pads, Windows go up and down against",
-        "PartNumber": 8942449420,
+        "PartNumber": "8942449420",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -4191,7 +4191,7 @@
     },
     {
         "Part": "Seal - Window Drip Channel - Left (RUBBER channel above doorjam for water drainage)",
-        "PartNumber": 8972510691,
+        "PartNumber": "8972510691",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -4201,7 +4201,7 @@
     },
     {
         "Part": "Seal - Window Drip Channel - Right (RUBBER channel above doorjam for water drainage)",
-        "PartNumber": 8972510681,
+        "PartNumber": "8972510681",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -4211,7 +4211,7 @@
     },
     {
         "Part": "Sealant - Clear RTV Silicone Adhesive Sealant",
-        "PartNumber": 80050,
+        "PartNumber": "80050",
         "Manufacturer": "Permatex",
         "Supplier": "Autozone",
         "Warranty": "",
@@ -4221,7 +4221,7 @@
     },
     {
         "Part": "Sealant - Goop Contact Sealant",
-        "PartNumber": 160012,
+        "PartNumber": "160012",
         "Manufacturer": "Goop",
         "Supplier": "Autozone",
         "Warranty": "",
@@ -4231,7 +4231,7 @@
     },
     {
         "Part": "Seat Extender Bolt (x4)",
-        "PartNumber": 14103,
+        "PartNumber": "14103",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -4241,7 +4241,7 @@
     },
     {
         "Part": "Seat Extender Nut (lock nut)",
-        "PartNumber": 37557,
+        "PartNumber": "37557",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -4251,7 +4251,7 @@
     },
     {
         "Part": "Seat Extender Nut (regular nut)",
-        "PartNumber": 36405,
+        "PartNumber": "36405",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -4261,7 +4261,7 @@
     },
     {
         "Part": "Seat Extender Washer",
-        "PartNumber": 33845,
+        "PartNumber": "33845",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -4281,7 +4281,7 @@
     },
     {
         "Part": "Seatbelt Assembly - Driver - Used from FB user Kaso Blanc",
-        "PartNumber": 8971985252,
+        "PartNumber": "8971985252",
         "Manufacturer": "Isuzu",
         "Supplier": "FB user = Kaso Blanc",
         "Warranty": "",
@@ -4291,7 +4291,7 @@
     },
     {
         "Part": "Seatbelt Assembly - Passenger - Used from FB user Kaso Blanc",
-        "PartNumber": 8971985241,
+        "PartNumber": "8971985241",
         "Manufacturer": "Isuzu",
         "Supplier": "FB user = Kaso Blanc",
         "Warranty": "",
@@ -4331,7 +4331,7 @@
     },
     {
         "Part": "Shifter Knob - Leather - OEM",
-        "PartNumber": 8971516290,
+        "PartNumber": "8971516290",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -4401,7 +4401,7 @@
     },
     {
         "Part": "Side Marker Assembly - Left - Orange OEM",
-        "PartNumber": 8972072780,
+        "PartNumber": "8972072780",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -4411,7 +4411,7 @@
     },
     {
         "Part": "Side Marker Assembly - Right - Orange OEM",
-        "PartNumber": 8972072770,
+        "PartNumber": "8972072770",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -4451,7 +4451,7 @@
     },
     {
         "Part": "Ski Rack - Yakima",
-        "PartNumber": 2901166350,
+        "PartNumber": "2901166350",
         "Manufacturer": "Yakima",
         "Supplier": "National Auto Plaze (Sandy, UT)",
         "Warranty": "",
@@ -4471,7 +4471,7 @@
     },
     {
         "Part": "Sleeve, Body Mount, Location 1",
-        "PartNumber": 8971705370,
+        "PartNumber": "8971705370",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -4481,7 +4481,7 @@
     },
     {
         "Part": "Sleeve, Body Mount, Location 2",
-        "PartNumber": 8971705370,
+        "PartNumber": "8971705370",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -4491,7 +4491,7 @@
     },
     {
         "Part": "Sleeve, Body Mount, Location 4",
-        "PartNumber": 8971705370,
+        "PartNumber": "8971705370",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -4531,7 +4531,7 @@
     },
     {
         "Part": "Spare Tire Cover Threading (for knobs), OEM",
-        "PartNumber": 8971619920,
+        "PartNumber": "8971619920",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -4541,7 +4541,7 @@
     },
     {
         "Part": "Spark Plug Seal",
-        "PartNumber": 8971361730,
+        "PartNumber": "8971361730",
         "Manufacturer": "Nippon Reinz",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -4561,7 +4561,7 @@
     },
     {
         "Part": "Spark Plugs - Denso Platinum 3264",
-        "PartNumber": 3264,
+        "PartNumber": "3264",
         "Manufacturer": "Denso Platinum Plut 3264",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -4571,7 +4571,7 @@
     },
     {
         "Part": "Speaker Cover - Left - Triangle shaped speaker cover w/screw and screw cover",
-        "PartNumber": 8971698000,
+        "PartNumber": "8971698000",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -4581,7 +4581,7 @@
     },
     {
         "Part": "Speaker Cover - Right - Triangle shaped speaker cover w/screw and screw cover",
-        "PartNumber": 8971698010,
+        "PartNumber": "8971698010",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -4601,7 +4601,7 @@
     },
     {
         "Part": "Spray Paint - Flat Black",
-        "PartNumber": 55275830,
+        "PartNumber": "55275830",
         "Manufacturer": "Touch N Tone",
         "Supplier": "Autozone",
         "Warranty": "",
@@ -4621,7 +4621,7 @@
     },
     {
         "Part": "Steering Wheel Cover - Wheelskins (1st purchase)",
-        "PartNumber": 1253806,
+        "PartNumber": "1253806",
         "Manufacturer": "Wheelskins",
         "Supplier": "www.autoanything.com",
         "Warranty": "",
@@ -4631,7 +4631,7 @@
     },
     {
         "Part": "Steering Wheel Cover - Wheelskins (2nd purchase)",
-        "PartNumber": 3648778,
+        "PartNumber": "3648778",
         "Manufacturer": "Wheelskins",
         "Supplier": "www.autoanything.com",
         "Warranty": "",
@@ -4691,7 +4691,7 @@
     },
     {
         "Part": "Switch Panel - Driver Side",
-        "PartNumber": 8971986891,
+        "PartNumber": "8971986891",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -4711,7 +4711,7 @@
     },
     {
         "Part": "Switch Panel - Passenger Side",
-        "PartNumber": 8971986871,
+        "PartNumber": "8971986871",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -4751,7 +4751,7 @@
     },
     {
         "Part": "Tape - 3M 06385 - Small for nameplate, .236\" x 5 yrds, 30mil thick",
-        "PartNumber": 6385,
+        "PartNumber": "6385",
         "Manufacturer": "3M",
         "Supplier": "www.nationaltoolwarehouse.com",
         "Warranty": "",
@@ -4761,7 +4761,7 @@
     },
     {
         "Part": "Tape - 3M 06394 - Medium size (very thick), 1/2 In x 10 Yds, 90 mil thick",
-        "PartNumber": 6394,
+        "PartNumber": "6394",
         "Manufacturer": "3M",
         "Supplier": "www.nationaltoolwarehouse.com",
         "Warranty": "",
@@ -4771,7 +4771,7 @@
     },
     {
         "Part": "Tape - 3M 6383 - 7/8\" thick, double-sided attachment tape",
-        "PartNumber": 6383,
+        "PartNumber": "6383",
         "Manufacturer": "3M",
         "Supplier": "eBay Member = mtlabrat0@hotmail.com",
         "Warranty": "",
@@ -4781,7 +4781,7 @@
     },
     {
         "Part": "Tape - Electrical, black 3/4\", 22 yards",
-        "PartNumber": 3429,
+        "PartNumber": "3429",
         "Manufacturer": "Scotch",
         "Supplier": "Autozone",
         "Warranty": "",
@@ -4811,7 +4811,7 @@
     },
     {
         "Part": "Thermostat w/Gasket - Gates (used by Luke's Auto)",
-        "PartNumber": 8973628940,
+        "PartNumber": "8973628940",
         "Manufacturer": "Gates",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -4841,7 +4841,7 @@
     },
     {
         "Part": "Thule Tie Downs",
-        "PartNumber": 1500052520,
+        "PartNumber": "1500052520",
         "Manufacturer": "Thule",
         "Supplier": "www.thule.com",
         "Warranty": "",
@@ -4881,7 +4881,7 @@
     },
     {
         "Part": "Tire Dressing - Black Majic Tire Wet 32oz (sale 2 for $10)",
-        "PartNumber": 420636,
+        "PartNumber": "420636",
         "Manufacturer": "Black Majic",
         "Supplier": "Autozone",
         "Warranty": "",
@@ -4901,7 +4901,7 @@
     },
     {
         "Part": "Tires - Big O, Cross Continental - 245/60R18",
-        "PartNumber": 119000091,
+        "PartNumber": "119000091",
         "Manufacturer": "Big O",
         "Supplier": "Big O",
         "Warranty": "",
@@ -4951,7 +4951,7 @@
     },
     {
         "Part": "Turn Signal Assembly - Left",
-        "PartNumber": 8972071900,
+        "PartNumber": "8972071900",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -4961,7 +4961,7 @@
     },
     {
         "Part": "Turn Signal Assembly - Right",
-        "PartNumber": 8972071890,
+        "PartNumber": "8972071890",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Collision",
         "Warranty": "",
@@ -5011,7 +5011,7 @@
     },
     {
         "Part": "U Nut Extruded - Rear Side Marker Assembly (OEM)",
-        "PartNumber": 8972128920,
+        "PartNumber": "8972128920",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -5021,7 +5021,7 @@
     },
     {
         "Part": "U Nut Extruded - Tire Wells",
-        "PartNumber": 11628,
+        "PartNumber": "11628",
         "Manufacturer": "Auveco",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -5041,7 +5041,7 @@
     },
     {
         "Part": "Valve Cover Gasket",
-        "PartNumber": 8971723940,
+        "PartNumber": "8971723940",
         "Manufacturer": "Nippon Reinz",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -5051,7 +5051,7 @@
     },
     {
         "Part": "Valve Cover Seal Washer",
-        "PartNumber": 8973722190,
+        "PartNumber": "8973722190",
         "Manufacturer": "Nippon Reinz",
         "Supplier": "Luke's Auto",
         "Warranty": "",
@@ -5071,7 +5071,7 @@
     },
     {
         "Part": "Vent - Defroster - Passenger side window",
-        "PartNumber": 8971548695,
+        "PartNumber": "8971548695",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -5091,7 +5091,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 1",
-        "PartNumber": 8944166930,
+        "PartNumber": "8944166930",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5101,7 +5101,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 1 (type 2)",
-        "PartNumber": 8970773861,
+        "PartNumber": "8970773861",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5111,7 +5111,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 2 (type 1)",
-        "PartNumber": 8970773861,
+        "PartNumber": "8970773861",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5121,7 +5121,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 2 (type 2)",
-        "PartNumber": 8970379930,
+        "PartNumber": "8970379930",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5131,7 +5131,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 2 (type 3)",
-        "PartNumber": 8944166930,
+        "PartNumber": "8944166930",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5141,7 +5141,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 4 (type 1)",
-        "PartNumber": 8944166940,
+        "PartNumber": "8944166940",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5151,7 +5151,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 4 (type 2)",
-        "PartNumber": 8970379930,
+        "PartNumber": "8970379930",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5161,7 +5161,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 4 (type 3)",
-        "PartNumber": 8970773861,
+        "PartNumber": "8970773861",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5171,7 +5171,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 5 (type 1)",
-        "PartNumber": 8970379930,
+        "PartNumber": "8970379930",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5181,7 +5181,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 5 (type 2)",
-        "PartNumber": 1099853450,
+        "PartNumber": "1099853450",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5191,7 +5191,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 6 (type 1)",
-        "PartNumber": 8970379930,
+        "PartNumber": "8970379930",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5201,7 +5201,7 @@
     },
     {
         "Part": "Washer - Body Mount, Location 6 (type 2)",
-        "PartNumber": 8971269920,
+        "PartNumber": "8971269920",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5221,7 +5221,7 @@
     },
     {
         "Part": "Washer - Carbon Fiber Front Grille, Nylon 3/8\",",
-        "PartNumber": 1176063,
+        "PartNumber": "1176063",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "",
@@ -5231,7 +5231,7 @@
     },
     {
         "Part": "Washer - Fender Body Bolt, Stainless",
-        "PartNumber": 1171212,
+        "PartNumber": "1171212",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 50, sold each",
@@ -5241,7 +5241,7 @@
     },
     {
         "Part": "Washer - Front Grill Bracket Screw, Stainless",
-        "PartNumber": 1171009,
+        "PartNumber": "1171009",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 4 (sold each)",
@@ -5251,7 +5251,7 @@
     },
     {
         "Part": "Washer - Gas Cap Assembly, Stainless",
-        "PartNumber": 1171010,
+        "PartNumber": "1171010",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 4 (sold each)",
@@ -5261,7 +5261,7 @@
     },
     {
         "Part": "Washer - Headlight assembly mounting",
-        "PartNumber": 916107060,
+        "PartNumber": "916107060",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -5281,7 +5281,7 @@
     },
     {
         "Part": "Washer - Rear Cladding & SBC Bracket for windows, Stainless",
-        "PartNumber": 1171015,
+        "PartNumber": "1171015",
         "Manufacturer": "Fastenal",
         "Supplier": "Fastenal",
         "Warranty": "Bag of 96, sold each",
@@ -5321,7 +5321,7 @@
     },
     {
         "Part": "Window Regulator - Left (Driver)",
-        "PartNumber": 8972184630,
+        "PartNumber": "8972184630",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Isuzu",
         "Warranty": "",
@@ -5331,7 +5331,7 @@
     },
     {
         "Part": "Window Regulator - Right (Passenger Side)",
-        "PartNumber": 8972184620,
+        "PartNumber": "8972184620",
         "Manufacturer": "Isuzu",
         "Supplier": "Oxmoor Automotive Group",
         "Warranty": "",
@@ -5361,7 +5361,7 @@
     },
     {
         "Part": "Window Switch Plate Bezel, Front (w/2 holes), OEM",
-        "PartNumber": 8972140070,
+        "PartNumber": "8972140070",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -5371,7 +5371,7 @@
     },
     {
         "Part": "Window Switch Plate Bezel, Rear (w/4 holes), OEM",
-        "PartNumber": 8972140080,
+        "PartNumber": "8972140080",
         "Manufacturer": "Isuzu",
         "Supplier": "Jack Miller Kia (dealership)",
         "Warranty": "",
@@ -5411,7 +5411,7 @@
     },
     {
         "Part": "Wiper Arm Cover",
-        "PartNumber": 8971483490,
+        "PartNumber": "8971483490",
         "Manufacturer": "Isuzu",
         "Supplier": "St. Charles Automotive",
         "Warranty": "",
@@ -5491,7 +5491,7 @@
     },
     {
         "Part": "Zip Ties - Not used",
-        "PartNumber": 20380,
+        "PartNumber": "20380",
         "Manufacturer": "Auveco",
         "Supplier": "eBay Member = directfast",
         "Warranty": "",
@@ -5501,7 +5501,7 @@
     },
     {
         "Part": "Zip Ties - OEM Black, Auveco 14298, Releasable",
-        "PartNumber": 14298,
+        "PartNumber": "14298",
         "Manufacturer": "Auveco",
         "Supplier": "www.dixied.com",
         "Warranty": "",
