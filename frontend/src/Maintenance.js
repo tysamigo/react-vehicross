@@ -38,8 +38,8 @@ class Maintenance extends React.Component {
                         <tr>
                             <th>Date</th>
                             <th># of Days Since</th>
-                            <th>Service Performed</th>
                             <th>Total Cost</th>
+                            <th>Service Performed</th>
                         </tr>
                     </thead>
                     <tbody>
