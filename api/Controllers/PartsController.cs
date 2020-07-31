@@ -22,7 +22,7 @@ namespace api.Controllers
         } 
 
         [HttpGet]
-        public string GetParts()
+        public ActionResult<List<Part>> GetParts()
         {
             return LoadPartsData();
         }
@@ -30,23 +30,27 @@ namespace api.Controllers
         [HttpGet("search/{term}")]
         public ActionResult<List<Part>> SearchParts(string term)
         {
-            string partsData = LoadPartsData();
+            string lowerTerm = term.ToLower();
 
             // Deserialize JSON data to C# objects for searchability
-            List<Part> parts = JsonSerializer.Deserialize<List<Part>>(partsData);
+            List<Part> partsList = LoadPartsData();
 
             // Search list of part objects for objects whos part name contains the search term
-            List<Part> matchingParts = parts.Where(part => part.PartName.ToLower().Contains(term)).ToList();
+            List<Part> matchingParts = partsList.Where((part) => 
+            {
+                string lowerPartName = part.PartName.ToLower();
+                return lowerPartName.Contains(lowerTerm);
+            }).ToList();
 
             return matchingParts;
         }
 
-        private string LoadPartsData()
+        private List<Part> LoadPartsData()
         {
             var partsFilePath = _env.ContentRootPath + "/Data/parts-list.json";
             string partsData = System.IO.File.ReadAllText(partsFilePath);
 
-            return partsData;
+            return JsonSerializer.Deserialize<List<Part>>(partsData);
         }
     }
 }
