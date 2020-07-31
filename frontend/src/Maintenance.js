@@ -37,6 +37,7 @@ class Maintenance extends React.Component {
                     <thead>
                         <tr>
                             <th>Date</th>
+                            <th># of Days Since</th>
                             <th>Service Performed</th>
                             <th>Total Cost</th>
                         </tr>
@@ -48,8 +49,9 @@ class Maintenance extends React.Component {
                             this.state.maintenanceArray.splice(0, 15).map((entry, index) => 
                                 <tr key={`entry-${index}`}>
                                     <td>{entry.date}</td>
-                                    <td>{entry.servicePerformed}</td>
+                                    <td>{entry.daysSince}</td>
                                     <td>{entry.totalCost}</td>
+                                    <td>{entry.servicePerformed}</td>
                                 </tr>
                             )
                         }
